@@ -1,0 +1,902 @@
+[
+    {
+        "product_id": 1,
+        "product_name": "Product_1",
+        "category": "Electronics",
+        "price": 460.29,
+        "stock_quantity": 485,
+        "created_at": "2021-07-26 00:00:00",
+        "updated_at": "2024-11-11 00:00:00"
+    },
+    {
+        "product_id": 2,
+        "product_name": "Product_2",
+        "category": "Groceries",
+        "price": 427.67,
+        "stock_quantity": 107,
+        "created_at": "2022-11-01 00:00:00",
+        "updated_at": "2024-08-29 00:00:00"
+    },
+    {
+        "product_id": 3,
+        "product_name": "Product_3",
+        "category": "Groceries",
+        "price": 97.18,
+        "stock_quantity": 315,
+        "created_at": "2021-07-15 00:00:00",
+        "updated_at": "2023-11-04 00:00:00"
+    },
+    {
+        "product_id": 4,
+        "product_name": "Product_4",
+        "category": "Books",
+        "price": 25.78,
+        "stock_quantity": 536,
+        "created_at": "2021-07-16 00:00:00",
+        "updated_at": "2023-03-10 00:00:00"
+    },
+    {
+        "product_id": 5,
+        "product_name": "Product_5",
+        "category": "Electronics",
+        "price": 330.0,
+        "stock_quantity": 195,
+        "created_at": "2020-02-27 00:00:00",
+        "updated_at": "2023-10-28 00:00:00"
+    },
+    {
+        "product_id": 6,
+        "product_name": "Product_6",
+        "category": "Clothing",
+        "price": 276.67,
+        "stock_quantity": 943,
+        "created_at": "2022-08-02 00:00:00",
+        "updated_at": "2024-05-09 00:00:00"
+    },
+    {
+        "product_id": 7,
+        "product_name": "Product_7",
+        "category": "Clothing",
+        "price": 496.92,
+        "stock_quantity": 465,
+        "created_at": "2022-09-03 00:00:00",
+        "updated_at": "2024-09-07 00:00:00"
+    },
+    {
+        "product_id": 8,
+        "product_name": "Product_8",
+        "category": "Electronics",
+        "price": 170.47,
+        "stock_quantity": 384,
+        "created_at": "2020-08-09 00:00:00",
+        "updated_at": "2024-11-06 00:00:00"
+    },
+    {
+        "product_id": 9,
+        "product_name": "Product_9",
+        "category": "Clothing",
+        "price": 380.8,
+        "stock_quantity": 840,
+        "created_at": "2022-07-26 00:00:00",
+        "updated_at": "2024-04-12 00:00:00"
+    },
+    {
+        "product_id": 10,
+        "product_name": "Product_10",
+        "category": "Books",
+        "price": 15.73,
+        "stock_quantity": 293,
+        "created_at": "2021-11-27 00:00:00",
+        "updated_at": "2023-08-16 00:00:00"
+    },
+    {
+        "product_id": 11,
+        "product_name": "Product_11",
+        "category": "Books",
+        "price": 176.29,
+        "stock_quantity": 21,
+        "created_at": "2020-11-01 00:00:00",
+        "updated_at": "2023-04-12 00:00:00"
+    },
+    {
+        "product_id": 12,
+        "product_name": "Product_12",
+        "category": "Toys",
+        "price": 181.69,
+        "stock_quantity": 609,
+        "created_at": "2022-05-05 00:00:00",
+        "updated_at": "2023-07-02 00:00:00"
+    },
+    {
+        "product_id": 13,
+        "product_name": "Product_13",
+        "category": "Books",
+        "price": 467.81,
+        "stock_quantity": 369,
+        "created_at": "2021-10-06 00:00:00",
+        "updated_at": "2023-11-08 00:00:00"
+    },
+    {
+        "product_id": 14,
+        "product_name": "Product_14",
+        "category": "Electronics",
+        "price": 435.3,
+        "stock_quantity": 222,
+        "created_at": "2020-01-26 00:00:00",
+        "updated_at": "2024-07-18 00:00:00"
+    },
+    {
+        "product_id": 15,
+        "product_name": "Product_15",
+        "category": "Electronics",
+        "price": 455.57,
+        "stock_quantity": 751,
+        "created_at": "2020-12-10 00:00:00",
+        "updated_at": "2023-05-23 00:00:00"
+    },
+    {
+        "product_id": 16,
+        "product_name": "Product_16",
+        "category": "Groceries",
+        "price": 95.8,
+        "stock_quantity": 985,
+        "created_at": "2020-02-23 00:00:00",
+        "updated_at": "2024-01-27 00:00:00"
+    },
+    {
+        "product_id": 17,
+        "product_name": "Product_17",
+        "category": "Toys",
+        "price": 159.76,
+        "stock_quantity": 956,
+        "created_at": "2022-12-20 00:00:00",
+        "updated_at": "2024-05-18 00:00:00"
+    },
+    {
+        "product_id": 18,
+        "product_name": "Product_18",
+        "category": "Electronics",
+        "price": 298.79,
+        "stock_quantity": 366,
+        "created_at": "2020-04-19 00:00:00",
+        "updated_at": "2024-11-24 00:00:00"
+    },
+    {
+        "product_id": 19,
+        "product_name": "Product_19",
+        "category": "Toys",
+        "price": 182.56,
+        "stock_quantity": 494,
+        "created_at": "2022-10-13 00:00:00",
+        "updated_at": "2024-06-09 00:00:00"
+    },
+    {
+        "product_id": 20,
+        "product_name": "Product_20",
+        "category": "Books",
+        "price": 339.25,
+        "stock_quantity": 583,
+        "created_at": "2020-04-30 00:00:00",
+        "updated_at": "2024-07-09 00:00:00"
+    },
+    {
+        "product_id": 21,
+        "product_name": "Product_21",
+        "category": "Toys",
+        "price": 8.63,
+        "stock_quantity": 828,
+        "created_at": "2021-11-13 00:00:00",
+        "updated_at": "2023-07-02 00:00:00"
+    },
+    {
+        "product_id": 22,
+        "product_name": "Product_22",
+        "category": "Groceries",
+        "price": 252.51,
+        "stock_quantity": 788,
+        "created_at": "2021-10-02 00:00:00",
+        "updated_at": "2023-07-09 00:00:00"
+    },
+    {
+        "product_id": 23,
+        "product_name": "Product_23",
+        "category": "Books",
+        "price": 10.91,
+        "stock_quantity": 1,
+        "created_at": "2020-07-19 00:00:00",
+        "updated_at": "2023-10-16 00:00:00"
+    },
+    {
+        "product_id": 24,
+        "product_name": "Product_24",
+        "category": "Clothing",
+        "price": 141.39,
+        "stock_quantity": 316,
+        "created_at": "2021-09-22 00:00:00",
+        "updated_at": "2024-03-07 00:00:00"
+    },
+    {
+        "product_id": 25,
+        "product_name": "Product_25",
+        "category": "Books",
+        "price": 234.07,
+        "stock_quantity": 516,
+        "created_at": "2020-06-02 00:00:00",
+        "updated_at": "2024-03-20 00:00:00"
+    },
+    {
+        "product_id": 26,
+        "product_name": "Product_26",
+        "category": "Groceries",
+        "price": 492.86,
+        "stock_quantity": 104,
+        "created_at": "2022-11-07 00:00:00",
+        "updated_at": "2023-05-08 00:00:00"
+    },
+    {
+        "product_id": 27,
+        "product_name": "Product_27",
+        "category": "Books",
+        "price": 326.48,
+        "stock_quantity": 490,
+        "created_at": "2021-04-25 00:00:00",
+        "updated_at": "2024-07-01 00:00:00"
+    },
+    {
+        "product_id": 28,
+        "product_name": "Product_28",
+        "category": "Clothing",
+        "price": 51.56,
+        "stock_quantity": 851,
+        "created_at": "2021-10-03 00:00:00",
+        "updated_at": "2024-05-20 00:00:00"
+    },
+    {
+        "product_id": 29,
+        "product_name": "Product_29",
+        "category": "Toys",
+        "price": 497.26,
+        "stock_quantity": 641,
+        "created_at": "2021-08-02 00:00:00",
+        "updated_at": "2024-02-10 00:00:00"
+    },
+    {
+        "product_id": 30,
+        "product_name": "Product_30",
+        "category": "Electronics",
+        "price": 389.95,
+        "stock_quantity": 99,
+        "created_at": "2020-08-25 00:00:00",
+        "updated_at": "2024-03-16 00:00:00"
+    },
+    {
+        "product_id": 31,
+        "product_name": "Product_31",
+        "category": "Books",
+        "price": 349.59,
+        "stock_quantity": 304,
+        "created_at": "2022-01-31 00:00:00",
+        "updated_at": "2023-08-09 00:00:00"
+    },
+    {
+        "product_id": 32,
+        "product_name": "Product_32",
+        "category": "Clothing",
+        "price": 27.18,
+        "stock_quantity": 70,
+        "created_at": "2022-04-06 00:00:00",
+        "updated_at": "2023-04-22 00:00:00"
+    },
+    {
+        "product_id": 33,
+        "product_name": "Product_33",
+        "category": "Toys",
+        "price": 493.37,
+        "stock_quantity": 166,
+        "created_at": "2020-07-20 00:00:00",
+        "updated_at": "2023-12-18 00:00:00"
+    },
+    {
+        "product_id": 34,
+        "product_name": "Product_34",
+        "category": "Toys",
+        "price": 98.21,
+        "stock_quantity": 380,
+        "created_at": "2021-02-27 00:00:00",
+        "updated_at": "2023-05-17 00:00:00"
+    },
+    {
+        "product_id": 35,
+        "product_name": "Product_35",
+        "category": "Groceries",
+        "price": 315.74,
+        "stock_quantity": 506,
+        "created_at": "2021-03-12 00:00:00",
+        "updated_at": "2024-02-20 00:00:00"
+    },
+    {
+        "product_id": 36,
+        "product_name": "Product_36",
+        "category": "Toys",
+        "price": 283.44,
+        "stock_quantity": 631,
+        "created_at": "2022-01-14 00:00:00",
+        "updated_at": "2024-01-23 00:00:00"
+    },
+    {
+        "product_id": 37,
+        "product_name": "Product_37",
+        "category": "Toys",
+        "price": 464.43,
+        "stock_quantity": 976,
+        "created_at": "2022-11-12 00:00:00",
+        "updated_at": "2024-08-13 00:00:00"
+    },
+    {
+        "product_id": 38,
+        "product_name": "Product_38",
+        "category": "Clothing",
+        "price": 415.1,
+        "stock_quantity": 127,
+        "created_at": "2020-03-28 00:00:00",
+        "updated_at": "2024-03-13 00:00:00"
+    },
+    {
+        "product_id": 39,
+        "product_name": "Product_39",
+        "category": "Groceries",
+        "price": 338.22,
+        "stock_quantity": 859,
+        "created_at": "2020-12-13 00:00:00",
+        "updated_at": "2023-06-20 00:00:00"
+    },
+    {
+        "product_id": 40,
+        "product_name": "Product_40",
+        "category": "Groceries",
+        "price": 154.2,
+        "stock_quantity": 118,
+        "created_at": "2022-07-21 00:00:00",
+        "updated_at": "2023-06-28 00:00:00"
+    },
+    {
+        "product_id": 41,
+        "product_name": "Product_41",
+        "category": "Groceries",
+        "price": 419.77,
+        "stock_quantity": 982,
+        "created_at": "2021-01-08 00:00:00",
+        "updated_at": "2024-04-18 00:00:00"
+    },
+    {
+        "product_id": 42,
+        "product_name": "Product_42",
+        "category": "Toys",
+        "price": 482.84,
+        "stock_quantity": 479,
+        "created_at": "2022-05-16 00:00:00",
+        "updated_at": "2024-08-14 00:00:00"
+    },
+    {
+        "product_id": 43,
+        "product_name": "Product_43",
+        "category": "Clothing",
+        "price": 400.5,
+        "stock_quantity": 24,
+        "created_at": "2020-03-08 00:00:00",
+        "updated_at": "2024-08-15 00:00:00"
+    },
+    {
+        "product_id": 44,
+        "product_name": "Product_44",
+        "category": "Electronics",
+        "price": 311.48,
+        "stock_quantity": 555,
+        "created_at": "2020-04-27 00:00:00",
+        "updated_at": "2023-07-22 00:00:00"
+    },
+    {
+        "product_id": 45,
+        "product_name": "Product_45",
+        "category": "Electronics",
+        "price": 376.06,
+        "stock_quantity": 252,
+        "created_at": "2021-09-18 00:00:00",
+        "updated_at": "2023-02-12 00:00:00"
+    },
+    {
+        "product_id": 46,
+        "product_name": "Product_46",
+        "category": "Electronics",
+        "price": 127.92,
+        "stock_quantity": 875,
+        "created_at": "2022-02-11 00:00:00",
+        "updated_at": "2023-06-06 00:00:00"
+    },
+    {
+        "product_id": 47,
+        "product_name": "Product_47",
+        "category": "Clothing",
+        "price": 331.52,
+        "stock_quantity": 946,
+        "created_at": "2022-03-15 00:00:00",
+        "updated_at": "2023-03-09 00:00:00"
+    },
+    {
+        "product_id": 48,
+        "product_name": "Product_48",
+        "category": "Groceries",
+        "price": 115.4,
+        "stock_quantity": 941,
+        "created_at": "2021-07-04 00:00:00",
+        "updated_at": "2023-12-24 00:00:00"
+    },
+    {
+        "product_id": 49,
+        "product_name": "Product_49",
+        "category": "Clothing",
+        "price": 404.61,
+        "stock_quantity": 573,
+        "created_at": "2022-10-22 00:00:00",
+        "updated_at": "2023-05-17 00:00:00"
+    },
+    {
+        "product_id": 50,
+        "product_name": "Product_50",
+        "category": "Electronics",
+        "price": 481.92,
+        "stock_quantity": 361,
+        "created_at": "2022-01-23 00:00:00",
+        "updated_at": "2024-09-30 00:00:00"
+    },
+    {
+        "product_id": 51,
+        "product_name": "Product_51",
+        "category": "Clothing",
+        "price": 164.45,
+        "stock_quantity": 829,
+        "created_at": "2020-11-11 00:00:00",
+        "updated_at": "2023-09-27 00:00:00"
+    },
+    {
+        "product_id": 52,
+        "product_name": "Product_52",
+        "category": "Electronics",
+        "price": 310.76,
+        "stock_quantity": 321,
+        "created_at": "2021-12-10 00:00:00",
+        "updated_at": "2024-04-18 00:00:00"
+    },
+    {
+        "product_id": 53,
+        "product_name": "Product_53",
+        "category": "Toys",
+        "price": 180.57,
+        "stock_quantity": 868,
+        "created_at": "2021-11-04 00:00:00",
+        "updated_at": "2023-08-10 00:00:00"
+    },
+    {
+        "product_id": 54,
+        "product_name": "Product_54",
+        "category": "Toys",
+        "price": 282.79,
+        "stock_quantity": 532,
+        "created_at": "2020-07-04 00:00:00",
+        "updated_at": "2023-10-11 00:00:00"
+    },
+    {
+        "product_id": 55,
+        "product_name": "Product_55",
+        "category": "Groceries",
+        "price": 239.13,
+        "stock_quantity": 998,
+        "created_at": "2022-10-07 00:00:00",
+        "updated_at": "2023-02-22 00:00:00"
+    },
+    {
+        "product_id": 56,
+        "product_name": "Product_56",
+        "category": "Electronics",
+        "price": 115.46,
+        "stock_quantity": 935,
+        "created_at": "2020-04-07 00:00:00",
+        "updated_at": "2024-02-03 00:00:00"
+    },
+    {
+        "product_id": 57,
+        "product_name": "Product_57",
+        "category": "Toys",
+        "price": 351.84,
+        "stock_quantity": 152,
+        "created_at": "2020-01-28 00:00:00",
+        "updated_at": "2024-10-13 00:00:00"
+    },
+    {
+        "product_id": 58,
+        "product_name": "Product_58",
+        "category": "Clothing",
+        "price": 52.51,
+        "stock_quantity": 833,
+        "created_at": "2022-03-17 00:00:00",
+        "updated_at": "2023-10-26 00:00:00"
+    },
+    {
+        "product_id": 59,
+        "product_name": "Product_59",
+        "category": "Electronics",
+        "price": 27.63,
+        "stock_quantity": 586,
+        "created_at": "2020-02-22 00:00:00",
+        "updated_at": "2023-08-05 00:00:00"
+    },
+    {
+        "product_id": 60,
+        "product_name": "Product_60",
+        "category": "Books",
+        "price": 461.84,
+        "stock_quantity": 498,
+        "created_at": "2020-09-16 00:00:00",
+        "updated_at": "2024-04-26 00:00:00"
+    },
+    {
+        "product_id": 61,
+        "product_name": "Product_61",
+        "category": "Groceries",
+        "price": 481.05,
+        "stock_quantity": 621,
+        "created_at": "2020-03-12 00:00:00",
+        "updated_at": "2023-08-05 00:00:00"
+    },
+    {
+        "product_id": 62,
+        "product_name": "Product_62",
+        "category": "Toys",
+        "price": 171.67,
+        "stock_quantity": 104,
+        "created_at": "2022-01-25 00:00:00",
+        "updated_at": "2024-03-15 00:00:00"
+    },
+    {
+        "product_id": 63,
+        "product_name": "Product_63",
+        "category": "Toys",
+        "price": 221.42,
+        "stock_quantity": 450,
+        "created_at": "2021-10-08 00:00:00",
+        "updated_at": "2023-08-30 00:00:00"
+    },
+    {
+        "product_id": 64,
+        "product_name": "Product_64",
+        "category": "Clothing",
+        "price": 311.48,
+        "stock_quantity": 295,
+        "created_at": "2021-08-26 00:00:00",
+        "updated_at": "2024-04-25 00:00:00"
+    },
+    {
+        "product_id": 65,
+        "product_name": "Product_65",
+        "category": "Electronics",
+        "price": 200.7,
+        "stock_quantity": 457,
+        "created_at": "2022-06-08 00:00:00",
+        "updated_at": "2024-02-16 00:00:00"
+    },
+    {
+        "product_id": 66,
+        "product_name": "Product_66",
+        "category": "Clothing",
+        "price": 38.22,
+        "stock_quantity": 652,
+        "created_at": "2020-06-01 00:00:00",
+        "updated_at": "2023-05-03 00:00:00"
+    },
+    {
+        "product_id": 67,
+        "product_name": "Product_67",
+        "category": "Clothing",
+        "price": 403.93,
+        "stock_quantity": 663,
+        "created_at": "2020-01-30 00:00:00",
+        "updated_at": "2024-06-29 00:00:00"
+    },
+    {
+        "product_id": 68,
+        "product_name": "Product_68",
+        "category": "Electronics",
+        "price": 350.58,
+        "stock_quantity": 255,
+        "created_at": "2022-04-21 00:00:00",
+        "updated_at": "2024-10-16 00:00:00"
+    },
+    {
+        "product_id": 69,
+        "product_name": "Product_69",
+        "category": "Clothing",
+        "price": 128.77,
+        "stock_quantity": 637,
+        "created_at": "2021-11-30 00:00:00",
+        "updated_at": "2024-06-09 00:00:00"
+    },
+    {
+        "product_id": 70,
+        "product_name": "Product_70",
+        "category": "Electronics",
+        "price": 355.96,
+        "stock_quantity": 365,
+        "created_at": "2020-08-01 00:00:00",
+        "updated_at": "2023-10-16 00:00:00"
+    },
+    {
+        "product_id": 71,
+        "product_name": "Product_71",
+        "category": "Groceries",
+        "price": 76.43,
+        "stock_quantity": 969,
+        "created_at": "2020-11-05 00:00:00",
+        "updated_at": "2023-07-25 00:00:00"
+    },
+    {
+        "product_id": 72,
+        "product_name": "Product_72",
+        "category": "Books",
+        "price": 274.29,
+        "stock_quantity": 172,
+        "created_at": "2021-03-01 00:00:00",
+        "updated_at": "2024-03-12 00:00:00"
+    },
+    {
+        "product_id": 73,
+        "product_name": "Product_73",
+        "category": "Groceries",
+        "price": 337.12,
+        "stock_quantity": 249,
+        "created_at": "2021-02-16 00:00:00",
+        "updated_at": "2023-10-31 00:00:00"
+    },
+    {
+        "product_id": 74,
+        "product_name": "Product_74",
+        "category": "Books",
+        "price": 129.13,
+        "stock_quantity": 801,
+        "created_at": "2022-09-14 00:00:00",
+        "updated_at": "2023-11-06 00:00:00"
+    },
+    {
+        "product_id": 75,
+        "product_name": "Product_75",
+        "category": "Toys",
+        "price": 160.01,
+        "stock_quantity": 421,
+        "created_at": "2022-04-15 00:00:00",
+        "updated_at": "2023-01-02 00:00:00"
+    },
+    {
+        "product_id": 76,
+        "product_name": "Product_76",
+        "category": "Groceries",
+        "price": 27.43,
+        "stock_quantity": 479,
+        "created_at": "2022-09-03 00:00:00",
+        "updated_at": "2023-05-02 00:00:00"
+    },
+    {
+        "product_id": 77,
+        "product_name": "Product_77",
+        "category": "Groceries",
+        "price": 271.21,
+        "stock_quantity": 664,
+        "created_at": "2020-10-26 00:00:00",
+        "updated_at": "2024-05-24 00:00:00"
+    },
+    {
+        "product_id": 78,
+        "product_name": "Product_78",
+        "category": "Toys",
+        "price": 117.68,
+        "stock_quantity": 828,
+        "created_at": "2022-12-16 00:00:00",
+        "updated_at": "2024-06-09 00:00:00"
+    },
+    {
+        "product_id": 79,
+        "product_name": "Product_79",
+        "category": "Books",
+        "price": 235.96,
+        "stock_quantity": 832,
+        "created_at": "2020-05-29 00:00:00",
+        "updated_at": "2023-06-27 00:00:00"
+    },
+    {
+        "product_id": 80,
+        "product_name": "Product_80",
+        "category": "Groceries",
+        "price": 475.14,
+        "stock_quantity": 889,
+        "created_at": "2022-07-16 00:00:00",
+        "updated_at": "2024-06-08 00:00:00"
+    },
+    {
+        "product_id": 81,
+        "product_name": "Product_81",
+        "category": "Electronics",
+        "price": 416.49,
+        "stock_quantity": 594,
+        "created_at": "2020-10-04 00:00:00",
+        "updated_at": "2023-08-22 00:00:00"
+    },
+    {
+        "product_id": 82,
+        "product_name": "Product_82",
+        "category": "Books",
+        "price": 268.62,
+        "stock_quantity": 623,
+        "created_at": "2022-06-23 00:00:00",
+        "updated_at": "2024-07-08 00:00:00"
+    },
+    {
+        "product_id": 83,
+        "product_name": "Product_83",
+        "category": "Clothing",
+        "price": 255.67,
+        "stock_quantity": 242,
+        "created_at": "2020-03-03 00:00:00",
+        "updated_at": "2024-04-09 00:00:00"
+    },
+    {
+        "product_id": 84,
+        "product_name": "Product_84",
+        "category": "Books",
+        "price": 261.47,
+        "stock_quantity": 561,
+        "created_at": "2020-10-12 00:00:00",
+        "updated_at": "2023-04-03 00:00:00"
+    },
+    {
+        "product_id": 85,
+        "product_name": "Product_85",
+        "category": "Clothing",
+        "price": 159.28,
+        "stock_quantity": 676,
+        "created_at": "2021-09-21 00:00:00",
+        "updated_at": "2024-05-28 00:00:00"
+    },
+    {
+        "product_id": 86,
+        "product_name": "Product_86",
+        "category": "Clothing",
+        "price": 175.62,
+        "stock_quantity": 364,
+        "created_at": "2022-02-05 00:00:00",
+        "updated_at": "2024-09-18 00:00:00"
+    },
+    {
+        "product_id": 87,
+        "product_name": "Product_87",
+        "category": "Toys",
+        "price": 151.28,
+        "stock_quantity": 220,
+        "created_at": "2021-09-13 00:00:00",
+        "updated_at": "2023-01-04 00:00:00"
+    },
+    {
+        "product_id": 88,
+        "product_name": "Product_88",
+        "category": "Clothing",
+        "price": 27.63,
+        "stock_quantity": 918,
+        "created_at": "2022-07-17 00:00:00",
+        "updated_at": "2024-02-14 00:00:00"
+    },
+    {
+        "product_id": 89,
+        "product_name": "Product_89",
+        "category": "Groceries",
+        "price": 66.82,
+        "stock_quantity": 153,
+        "created_at": "2021-11-02 00:00:00",
+        "updated_at": "2023-05-01 00:00:00"
+    },
+    {
+        "product_id": 90,
+        "product_name": "Product_90",
+        "category": "Electronics",
+        "price": 248.87,
+        "stock_quantity": 210,
+        "created_at": "2021-07-30 00:00:00",
+        "updated_at": "2024-06-23 00:00:00"
+    },
+    {
+        "product_id": 91,
+        "product_name": "Product_91",
+        "category": "Books",
+        "price": 372.49,
+        "stock_quantity": 47,
+        "created_at": "2020-09-02 00:00:00",
+        "updated_at": "2023-11-26 00:00:00"
+    },
+    {
+        "product_id": 92,
+        "product_name": "Product_92",
+        "category": "Books",
+        "price": 35.07,
+        "stock_quantity": 257,
+        "created_at": "2022-11-18 00:00:00",
+        "updated_at": "2023-02-21 00:00:00"
+    },
+    {
+        "product_id": 93,
+        "product_name": "Product_93",
+        "category": "Books",
+        "price": 359.39,
+        "stock_quantity": 517,
+        "created_at": "2021-08-06 00:00:00",
+        "updated_at": "2024-08-21 00:00:00"
+    },
+    {
+        "product_id": 94,
+        "product_name": "Product_94",
+        "category": "Clothing",
+        "price": 394.96,
+        "stock_quantity": 30,
+        "created_at": "2020-06-09 00:00:00",
+        "updated_at": "2023-04-12 00:00:00"
+    },
+    {
+        "product_id": 95,
+        "product_name": "Product_95",
+        "category": "Books",
+        "price": 487.33,
+        "stock_quantity": 213,
+        "created_at": "2022-09-03 00:00:00",
+        "updated_at": "2024-12-01 00:00:00"
+    },
+    {
+        "product_id": 96,
+        "product_name": "Product_96",
+        "category": "Toys",
+        "price": 49.82,
+        "stock_quantity": 102,
+        "created_at": "2021-02-23 00:00:00",
+        "updated_at": "2023-06-17 00:00:00"
+    },
+    {
+        "product_id": 97,
+        "product_name": "Product_97",
+        "category": "Groceries",
+        "price": 36.22,
+        "stock_quantity": 672,
+        "created_at": "2020-07-08 00:00:00",
+        "updated_at": "2023-05-24 00:00:00"
+    },
+    {
+        "product_id": 98,
+        "product_name": "Product_98",
+        "category": "Toys",
+        "price": 147.09,
+        "stock_quantity": 330,
+        "created_at": "2021-05-20 00:00:00",
+        "updated_at": "2023-11-28 00:00:00"
+    },
+    {
+        "product_id": 99,
+        "product_name": "Product_99",
+        "category": "Clothing",
+        "price": 282.4,
+        "stock_quantity": 64,
+        "created_at": "2021-04-12 00:00:00",
+        "updated_at": "2024-11-24 00:00:00"
+    },
+    {
+        "product_id": 100,
+        "product_name": "Product_100",
+        "category": "Groceries",
+        "price": 189.99,
+        "stock_quantity": 866,
+        "created_at": "2022-06-20 00:00:00",
+        "updated_at": "2023-03-03 00:00:00"
+    }
+]
